@@ -61,6 +61,7 @@
 
 <?php
 	phpinfo();
+
 ?>
 
     <!-- Bootstrap core JavaScript
