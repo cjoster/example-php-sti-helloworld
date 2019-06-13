@@ -59,10 +59,6 @@
 
     </div><!-- /.container -->
 
-<?php
-	phpinfo();
-
-?>
 
     <!-- Bootstrap core JavaScript
     ================================================== -->
